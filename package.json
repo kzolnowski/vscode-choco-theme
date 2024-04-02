@@ -1,0 +1,21 @@
+{
+  "name": "choco-yoyo",
+  "displayName": "Choco",
+  "description": "Choco theme based on TextMate Choco theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Choco by yOyO-",
+        "uiTheme": "vs-dark",
+        "path": "./themes/choco-yoyo-color-theme.json"
+      }
+    ]
+  }
+}
