@@ -189,7 +189,7 @@
 		//"editorHoverWidget.highlightForeground": "#2aaaff",
 		//"editorHoverWidget.statusBarBackground": "#2c2c2d",
 		//"editorIndentGuide.activeBackground": "#ffffff40",
-		//"editorIndentGuide.activeBackground1": "#ffffff40",
+		"editorIndentGuide.activeBackground1": "#ffffff70",
 		//"editorIndentGuide.activeBackground2": "#00000000",
 		//"editorIndentGuide.activeBackground3": "#00000000",
 		//"editorIndentGuide.activeBackground4": "#00000000",
